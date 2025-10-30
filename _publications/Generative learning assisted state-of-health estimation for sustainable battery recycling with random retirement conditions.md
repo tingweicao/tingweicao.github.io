@@ -1,11 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
+category: manuscripts
+permalink: /publication/Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+date: 2024-11-23
+venue: 'Nature Communications'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
