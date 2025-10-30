@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-06-15
-venue: 'Journal 1'
+venue: 'Applied Energy'
 slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Liu, X., Tao, S., Fu, S., Ma, R., Cao, T., Fan, H., ... & Sun, Y. (2024). Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries. Applied Energy, 364, 123221.'
