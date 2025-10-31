@@ -3,11 +3,8 @@ title: "Binary multi-frequency signal for accurate and rapid electrochemical imp
 collection: publications
 category: manuscripts
 permalink: /publication/Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Xutao Liu, Shengyu Tao, Shiyi Fu, Ruifei Ma, Tingwei Cao, Hongtao Fan, Junxiong Zuo, Xuan Zhang, Yu Wang, Yaojie Sun'
 date: 2024-06-15
 venue: 'Applied Energy'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
