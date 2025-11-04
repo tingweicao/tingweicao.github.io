@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received M.Sc. degree in Data Science and Information Technology Engineering at Tsinghua University, Beijing, China, and B.Sc. degree in Mathematics and Applied Mathematics at South China University of Technology, Guangzhou, China.
+I received M.Sc. degree in Data Science and Information Technology at Tsinghua University, Beijing, China, and B.Sc. degree in Mathematics and Applied Mathematics at South China University of Technology, Guangzhou, China.
 
 News
 ======
