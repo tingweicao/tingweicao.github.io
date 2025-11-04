@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi! I am Tingwei Cao (曹廷威)"
+title: "Hi, I am Tingwei Cao (曹廷威)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,8 +12,9 @@ I received M.Sc. degree at Tsinghua University, Beijing, China, and B.Sc. degree
 News
 ======
 
-> Life does not always go your way. Looking back will not bring joy. Dreams may fade, but what you hold now is real. Do not waste the moonlit night; raise your cup and treasure those beside you.
+> 少时总觉为人易，华年方知立业难。
+> 用心计较般般错，退不思量事事难。
+> 逆境不吐心中苦，顺势不忘来时路。
+> 苍天本就无坦途，痛苦铸就英雄路。
 >
-> 生活中有很多的不如意，如果一不开心，就寄希望于当初，那你永远不会开心。幻境再美终是梦，珍惜眼前始为真，莫使金樽空对月，举杯幸会有缘人。
->
-> <small>——《武林外传》</small>
+> <small>——献给正在奋斗路上的你们</small>
