@@ -13,7 +13,7 @@ Education Background
 -----
 _2022.09 - 2025.06_ M.S. in Data Science and Information Technology, Tsinghua University
 
-_2018.09 - 2022.06_ B.S. in Mathematics and Applied Mathematics, South China University of Technology
+_2018.09 - 2022.06_ B.S. in Mathematics, South China University of Technology
 
 News
 ======
