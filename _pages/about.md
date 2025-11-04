@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received M.Sc. degree at Tsinghua University, Beijing, China, and B.Sc. degree at South China University of Technology, Guangzhou, China.
+I received M.Sc. degree in Data Science and Information Technology Engineering at Tsinghua University, Beijing, China, and B.Sc. degree in Mathematics and Applied Mathematics at South China University of Technology, Guangzhou, China.
 
 News
 ======
@@ -17,4 +17,4 @@ News
 > 逆境不吐心中苦，顺势不忘来时路。
 > 苍天本就无坦途，痛苦铸就英雄路。
 >
-> <small>——献给正在奋斗路上的你们</small>
+> <small>——《增广贤文》</small>
