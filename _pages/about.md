@@ -13,13 +13,13 @@ My research interests include time series probability prediction methods in powe
 
 Education Background
 -----
-_2026.01 - 2029.01_ Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University  
+_2026.01 - 2029.01_ Ph.D. in Electrical Engineering, Nanyang Technological University in Singapore  
 _2022.09 - 2025.06_ M.Sc. in Data Science and Information Technology, Tsinghua University  
 _2018.09 - 2022.06_ B.Sc. in Mathematics, South China University of Technology
 
 Academic Experience
 ----
-_2026.04 - 2029.04_ Nanyang Technological University, Research Assistant  
+_2026.04 - 2029.04_ Nanyang Technological University in Singapore, Research Assistant  
 _2025.07 - 2025.12_ China-Singapore International Joint Research Institute, Research Assistant
 
 Professional Service
