@@ -13,13 +13,13 @@ My research interests include time series probability prediction methods in powe
 
 Education Background
 -----
-_2026.01 - Now_ Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University  
-_2022.09 - 2025.06_ M.S. in Data Science and Information Technology, Tsinghua University  
-_2018.09 - 2022.06_ B.S. in Mathematics, South China University of Technology
+_2026.01 - 2029.01_ Ph.D. in Electrical and Electronic Engineering, Nanyang Technological University  
+_2022.09 - 2025.06_ M.Sc. in Data Science and Information Technology, Tsinghua University  
+_2018.09 - 2022.06_ B.Sc. in Mathematics, South China University of Technology
 
 Academic Experience
 ----
-_2026.04 - Now_ Nanyang Technological University, Research Assistant  
+_2026.04 - 2029.04_ Nanyang Technological University, Research Assistant  
 _2025.07 - 2025.12_ China-Singapore International Joint Research Institute, Research Assistant
 
 Professional Service
@@ -29,6 +29,7 @@ Reviewer for IEEE Access, CSEE Journal of Power and Energy Systems, Applied Ener
 
 News
 ======
+#### 2024
 _2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
 _2024.06_ My first author article [Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy*** (SCI Q1).
 
