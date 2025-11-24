@@ -3,7 +3,7 @@ title: "Non-destructive degradation pattern decoupling for ultra-early battery p
 collection: publications
 category: manuscripts
 permalink: /publication/Non-destructive degradation pattern decoupling for ultra-early battery prototype verification using physics-informed machine learning
-excerpt: 'Shengyu Tao, Mengtian Zhang, Zixi Zhao, Haoyang Li, Ruifei Ma, Yunhong Che, Xin Sun, Lin Su, Xiangyu Chen, Zihao Zhou, Heng Chang, Tingwei Cao, Xiao Xiao, Yaojun Liu, Wenjun Yu, Zhongling Xu, Yang Li, Han Hao, Xuan Zhang, Xiaosong Hu, Guangmin ZHou'
+excerpt: 
 date: 2024-06-01
 venue: 'arXiv preprint'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
