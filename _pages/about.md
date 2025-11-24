@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I received M.S. degree in Data Science and Information Technology at Tsinghua University, advised by tenured Asso. Prof. Yinliang Xu. Meanwhile, I’m a member of Energy Management System Laboratory led by Prof. Hongbin Sun (*IEEE Fellow*, *Academician of the Chinese Academy of Sciences*), Department of Electrical Engineering, Tsinghua University. And I received my B.S. degree in Mathematics and Applied Mathematics at South China University of Technology.
+I received M.S. degree in Data Science and Information Technology at Tsinghua University, advised by tenured Asso. Prof. [Yinliang Xu](https://www.sigs.tsinghua.edu.cn/xyl/main.htm). Meanwhile, I’m a member of Energy Management System Laboratory led by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/faculties/shb.htm) (*IEEE Fellow*, *Academician of the Chinese Academy of Sciences*), Department of Electrical Engineering, Tsinghua University. And I received my B.S. degree in Mathematics and Applied Mathematics at South China University of Technology.
 
 My research interests include time series probability prediction methods in power systems and optimization theory, optimal operation control and robust optimization of microgrids, as well as the application of AI/LLM in power systems and integrated energy systems.
 
