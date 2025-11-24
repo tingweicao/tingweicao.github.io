@@ -18,7 +18,7 @@ _2018.09 - 2022.06_ B.S. in Mathematics, South China University of Technology
 
 Academic Experience
 ----
-_2026.04 - Now_ Nanyang Technological University in Singapore, Research Assistant (Project Funded)
+_2026.04 - Now_ Nanyang Technological University in Singapore, Research Assistant (Project Funded)  
 _2025.09 - 2025.12_ China-Singapore International Joint Research Institute, Research Assistant (Project Funded)
 
 Professional Service
