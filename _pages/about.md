@@ -19,7 +19,7 @@ _2018.09 - 2022.06_ B.Sc. in Mathematics, South China University of Technology
 
 Academic Experience
 ----
-_2026.04 - 2029.04_ Nanyang Technological University in Singapore, Research Assistant  
+_2026.04 - 2029.04_ Nanyang Technological University in Singapore, Research Associate  
 _2025.07 - 2025.12_ China-Singapore International Joint Research Institute, Research Assistant
 
 Professional Service
@@ -35,7 +35,7 @@ News
 ======
 ### 2024
 _2024.10_ Congratulations! I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
-_2024.06_ Our new paper(as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy*** (SCI Q1).
+_2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy*** (SCI Q1).
 
 > 少时总觉为人易，华年方知立业难。
 > 用心计较般般错，退不思量事事难。
