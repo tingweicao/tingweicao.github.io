@@ -33,8 +33,7 @@ CSEE Journal of Power and Energy Systems
 
 News
 ======
-### 2024
-_2024.10_ Congratulations! I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
+_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
 _2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy*** (SCI Q1).
 
 > 少时总觉为人易，华年方知立业难。
