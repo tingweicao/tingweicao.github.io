@@ -33,13 +33,6 @@ CSEE Journal of Power and Energy Systems
 
 News
 ======
-_2026.01_ I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!
+_2026.01_ I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!  
 _2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
-_2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy*** (SCI Q1).
-
-> 少时总觉为人易，华年方知立业难。
-> 用心计较般般错，退不思量事事难。
-> 逆境不吐心中苦，顺势不忘来时路。
-> 苍天本就无坦途，痛苦铸就英雄路。
->
-> <small>——《增广贤文》</small>
+_2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.
