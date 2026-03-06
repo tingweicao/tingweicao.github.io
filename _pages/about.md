@@ -34,5 +34,5 @@ CSEE Journal of Power and Energy Systems
 News
 ======
 _2026.01_ I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!  
-_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 15%).  
+_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 10%).  
 _2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.
