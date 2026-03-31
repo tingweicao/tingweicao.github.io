@@ -13,7 +13,7 @@ My research interests include time series probability prediction methods in powe
 
 Education Background
 -----
-_2026.01 - Now_ Ph.D. in Electrical Engineering, Nanyang Technological University in Singapore  
+_2026.01 - Now_ Ph.D. in Electrical Engineering, Nanyang Technological University Singapore  
 _2022.09 - 2025.06_ M.Phil. in Data Science and Information Technology, Tsinghua University  
 _2018.09 - 2022.06_ B.Sc. in Mathematics, South China University of Technology
 
@@ -24,15 +24,18 @@ _2025.07 - 2025.12_ China-Singapore International Joint Research Institute, Rese
 
 Professional Service
 -----
-### Reviewer
-Solar Energy  
-Applied Energy  
-IEEE Access   
-IEEE Transactions on Smart Grid  
-CSEE Journal of Power and Energy Systems
+### Peer Reviewer
+_Solar Energy_  
+_Applied Energy_  
+_IEEE Access_   
+_IEEE Transactions on Smart Grid_  
+_CSEE Journal of Power and Energy Systems_
 
 News
 ======
 _2026.01_ I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!  
-_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 10%).  
-_2024.06_ Our new paper (as the first author) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.
+_2025.07_ I graduated from Tsinghua University!🎓  
+_2024.11_ Our paper entitled ["Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions"](https://www.nature.com/articles/s41467-024-54454-0) was accepted by ***Nature Communications***.📄  
+_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 10%).🎖️  
+_2024.10_ Our paper (**first author**) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.📄  
+_2024/.06_ Our paper entitled ["Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924006044) was accepted by ***Applied Energy***.📄
