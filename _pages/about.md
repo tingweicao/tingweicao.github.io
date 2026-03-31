@@ -13,14 +13,14 @@ My research interests include time series probability prediction methods in powe
 
 Education Background
 -----
-_2026.01 - Now_ Ph.D. in Electrical Engineering, Nanyang Technological University Singapore  
-_2022.09 - 2025.06_ M.Phil. in Data Science and Information Technology, Tsinghua University  
-_2018.09 - 2022.06_ B.Sc. in Mathematics, South China University of Technology
+2026.01 - Now Ph.D. in Electrical Engineering, Nanyang Technological University Singapore  
+2022.09 - 2025.06 M.Phil. in Data Science and Information Technology, Tsinghua University  
+2018.09 - 2022.06 B.Sc. in Mathematics, South China University of Technology
 
 Academic Experience
 ----
-_2026.04 - Now_ Nanyang Technological University in Singapore, Research Associate  
-_2025.07 - 2025.12_ China-Singapore International Joint Research Institute, Research Assistant
+2026.04 - Now Nanyang Technological University in Singapore, Research Associate  
+2025.07 - 2025.12 China-Singapore International Joint Research Institute, Research Assistant
 
 Professional Service
 -----
@@ -33,9 +33,9 @@ _CSEE Journal of Power and Energy Systems_
 
 News
 ======
-_2026.01_ I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!  
-_2025.07_ I was graduated from Tsinghua University!🎓  
-_2024.11_ Our paper (as the collaborator) entitled ["Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions"](https://www.nature.com/articles/s41467-024-54454-0) was accepted by ***Nature Communications***.📄  
-_2024.10_ I was honored to receive the Scholarship of Tsinghua University (Top 10%).🎖️  
-_2024.10_ Our paper (as the **first author**) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.📄  
-_2024/.06_ Our paper (as the collaborator) entitled ["Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924006044) was accepted by ***Applied Energy***.📄
+2026.01 I have officially enrolled at Nanyang Technological University to pursue a PhD degree. A brand new journey!  
+2025.07 I was graduated from Tsinghua University!🎓  
+2024.11 Our paper (as the collaborator) entitled ["Generative learning assisted state-of-health estimation for sustainable battery recycling with random retirement conditions"](https://www.nature.com/articles/s41467-024-54454-0) was accepted by ***Nature Communications***.📄  
+2024.10 I was honored to receive the Scholarship of Tsinghua University (Top 10%).🎖️  
+2024.10 Our paper (as the **first author**) entitled ["Feature-enhanced deep learning method for electric vehicle charging demand probabilistic forecasting of charging station"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924011346) was accepted by ***Applied Energy***.📄  
+2024/.06 Our paper (as the collaborator) entitled ["Binary multi-frequency signal for accurate and rapid electrochemical impedance spectroscopy acquisition in lithium-ion batteries"](https://www.sciencedirect.com/science/article/abs/pii/S0306261924006044) was accepted by ***Applied Energy***.📄
